@@ -101,13 +101,12 @@ I : INTEL GPU
 ===========================================
 DUAL MINEABLE ALGORITHMS:
 ===========================================
-
-ethash + kaspa
-ethash + blake3_alephium
-ethash + blake3_ironfish
-ethash + heavyhash
-ethash + sha512_256d_radiant 
-ethash + sha256dt
+yespower + minotaurx
+yespower + verushash
+yespower + ghostrider
+yespower + cpupower
+yespower + heavyhash
+yespower + yescryptr16
 
 etchash + kaspa
 etchash + blake3_alephium
